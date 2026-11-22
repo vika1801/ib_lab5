@@ -1,0 +1,1 @@
+from программы.тестирование import CryptoLabTests
